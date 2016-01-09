@@ -3,6 +3,7 @@
 bin/
 tmp/
 /target/
+/m2e-wtp/
 *.class
 *.tmp
 *.bak
